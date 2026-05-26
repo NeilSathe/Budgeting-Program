@@ -30,7 +30,7 @@ The project allows users to keep track of their expenses and manage their budget
    Method 1
 
    1. Clone Repository
-   2. Install Dependencies : pip install matplotlib.pyplot pandas scikit-learn os numpy
+   2. Install Dependencies : pip install matplotlib pandas scikit-learn numpy
    3. Run the script : python MyBudget.py
 
   Method 2
